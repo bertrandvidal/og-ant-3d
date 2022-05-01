@@ -1,0 +1,23 @@
+This is _Ant3D_, my last year project: "Using a mix of ant colony, neural network and evolutionary algorithms create
+sculptures"
+
+![pic](screenshots/Picture1.png)
+![pic](screenshots/Picture2.png)
+![pic](screenshots/Picture3.png)
+![pic](screenshots/Picture4.png)
+![pic](screenshots/Picture5.png)
+![pic](screenshots/Picture6.png)
+![pic](screenshots/Picture7.png)
+![pic](screenshots/Picture8.png)
+![pic](screenshots/Picture9.png)
+![pic](screenshots/Picture10.png)
+![pic](screenshots/Picture11.png)
+![pic](screenshots/Picture12.png)
+![pic](screenshots/Picture13.png)
+![pic](screenshots/Picture14.png)
+![pic](screenshots/table1.png)
+![pic](screenshots/table2.png)
+![pic](screenshots/table3.png)
+![pic](screenshots/table4.png)
+![pic](screenshots/table5.png)
+![pic](screenshots/table6.png)
